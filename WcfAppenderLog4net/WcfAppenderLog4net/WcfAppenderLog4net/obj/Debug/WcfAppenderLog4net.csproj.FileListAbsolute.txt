@@ -1,0 +1,8 @@
+C:\Code\WcfAppenderLog4net\WcfAppenderLog4net\WcfAppenderLog4net\bin\Debug\WcfAppenderLog4net.exe.config
+C:\Code\WcfAppenderLog4net\WcfAppenderLog4net\WcfAppenderLog4net\bin\Debug\WcfAppenderLog4net.exe
+C:\Code\WcfAppenderLog4net\WcfAppenderLog4net\WcfAppenderLog4net\bin\Debug\WcfAppenderLog4net.pdb
+C:\Code\WcfAppenderLog4net\WcfAppenderLog4net\WcfAppenderLog4net\bin\Debug\WcfService.dll
+C:\Code\WcfAppenderLog4net\WcfAppenderLog4net\WcfAppenderLog4net\bin\Debug\WcfService.pdb
+C:\Code\WcfAppenderLog4net\WcfAppenderLog4net\WcfAppenderLog4net\obj\Debug\WcfAppenderLog4net.csprojResolveAssemblyReference.cache
+C:\Code\WcfAppenderLog4net\WcfAppenderLog4net\WcfAppenderLog4net\obj\Debug\WcfAppenderLog4net.exe
+C:\Code\WcfAppenderLog4net\WcfAppenderLog4net\WcfAppenderLog4net\obj\Debug\WcfAppenderLog4net.pdb
